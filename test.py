@@ -50,7 +50,7 @@ with st.sidebar:
     bobot_gpu = st.slider("Bobot GPU (Benefit)", 1, 5, 3)
     bobot_ram = st.slider("Bobot RAM (Benefit)", 1, 5, 3)
     bobot_storage = st.slider("Bobot Storage (Benefit)", 1, 5, 3)
-    bobot_harga = st.slider("Bobot Harga (Benefit)", 1, 5, 3)
+    bobot_harga = st.slider("Bobot Harga (Cost)", 1, 5, 3)
 
 
 #table alternatif
